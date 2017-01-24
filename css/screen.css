@@ -1,0 +1,210 @@
+
+
+@media screen and (max-width:1366px){
+	
+.wrapper{ width:98%;}
+.regis{ top:400px;}	
+}
+
+@media screen and (max-width:1280px){
+
+nav{ float:left; width:55%; margin-top:0;}
+nav li{ margin-right:14px;}
+.right_box{ width:400px; margin-top:0px;}
+.tabs_btn li{ width:22%;}
+.tag1{ font-size:31px;}
+.logo{ margin-right:30px;}
+
+	
+	
+}
+
+@media screen and (max-width:1200px){
+	.right_box{ width:280px;}
+	.right_box li:last-child{ width:65%;}
+	.accordians .right_details{ width:70%;}
+	
+}
+
+
+@media screen and (max-width:1024px){
+	
+.white_bg{ padding:50px;}	
+	
+}
+
+
+@media screen and (max-width:1023px){
+
+.bottom_footer{ padding:0 0 20px 0;}	
+.bottom_footer .copy{ width:100%; text-align:center;}	
+.bottom_footer .bottom_menu{ float:left; width:100%; text-align:center;}
+.bottom_footer .bottom_menu li{ float:none; display:inline-block; text-align:center;}
+.logo{ margin-right:0;}
+
+p{ font-size:14px; line-height:20px;}
+
+.right_content{ width:85%;}
+
+}
+
+
+
+
+
+
+
+@media screen and (max-width:979px){
+	
+.menu-icon{ display:block; float:right; cursor:pointer;}	
+
+#mob_menu ul{ display:none; position:absolute; background:#999; left:0; width:100%; top:90px; z-index:999; }
+#mob_menu ul li{ float:left; width:100%;}
+
+nav{ width:auto; margin-top:30px; float:right;}
+nav li a:hover, nav li a.active{border-bottom:1px solid #fff; }
+nav li a{ float:left; width:95%; padding:8px 0 8px 5%; border-bottom:1px solid #fff;}
+nav li a:hover{ background:#000;}
+
+header{ height:auto; background:#000; padding:10px 0; position:static; float:left;}
+.mob_banner{ float:left; width:100%; text-align:center; display:block;}
+.right_box{ display:none;}
+.slider_box{ margin:0; padding-bottom:20px;}
+.inner_banner .slider_box{ padding-bottom:0;}
+.tags{ float:left; width:100%; text-align:center; right:0;}
+.breadcrum ul{ width:100%;}
+.todown{ display:none;}
+.regis{ width:55px; overflow:hidden; bottom:50%;}
+
+.video_box .girl{ width:100%;}
+.video_box .right_cont{ float:left; width:100%; text-align:center;}
+.and{ width:100%;}
+.left_text{ width:100%; text-align:center;}
+.three_box{ float:left; width:100%;}
+.wellness{ padding-bottom:0;}
+.our_res{ width:100%; margin:20px 0;}
+.three_icon{ width:90%;}
+
+.footer_fixed{ position:fixed; bottom:0; background:#000; z-index:999; display:block; width:100%; padding:5px 0;}
+.footer_fixed li{ display:inline-block; width:32%; text-align:center;}
+.footer_fixed li a{ color:#fff;}
+
+footer{ margin-bottom:80px;}
+.regis {top: 186px;z-index: 997;}
+
+
+.disorder_details{ text-align:center;}
+.disorder_details li:first-child{ width:100%; text-align:center;}
+.disorder_name{ text-align:center;}
+.disorder_details li{ float:none; display:inline-block; vertical-align:top;}
+
+.address_left{ width:45%;}
+.form_box{ width:40%;}
+
+#login_form_box{ width:90%;}
+	
+}
+
+@media screen and (max-width:767px){
+	
+.tags{ position:static; background:#000; padding:10px 0;}	
+.two_doctaor_details .hod{ position:static; width:100%;}
+.condition_thumb li{ width:49%;}
+.condition_thumb li:nth-child(3n){ margin-right:2%}
+.condition_thumb li:nth-child(2n){ margin-right:0;}
+
+.red_round{ width:200px; height:200px;}
+.disorder_details li{ width:49%;}
+.boy_name{ font-size:13px;}
+.disorder_name{ font-size:20px;}
+
+.address_left {width: 100%;}
+.form_box{ width:90%; margin-top:20px;}
+
+.threpy li{ width:29%; margin:0 2%; height:200px}
+	
+}
+
+
+@media screen and (max-width:599px){
+	
+	.mt50{ margin:10px 0;}
+	.pt50 {padding: 25px 0;}
+	
+	.video_box h3{ font-size:25px; text-align:center;}
+	.lrp20 { padding: 10px 2% 50px;}
+	.two_doctaor_details .doc li{ width:49%;}
+	.three_box li{ width:100%; margin:10px 0; text-align:center; border-bottom:1px solid #000; padding-bottom:20px;}
+	.footer_three_box li{ width:100%; margin-bottom:20px;}
+	.last_menu li{ padding:0 8px;}
+	.last_menu{ border-bottom:1px solid #fff; padding-bottom:10px;}
+	.subcription input[type="text"]{ width:198px;}
+	.right_box{ float:left; width:100%; text-align:center;}
+	
+.right_box li {display: inline-block; float: none;margin-right: 10px;text-align: center;}
+.right_box li:last-child{ width:100%;}
+.right_box li:last-child img{ float:none; display:inline-block; vertical-align:middle;}
+.right_box li:last-child br{ display:none;}
+.tabs_btn li {
+    width: 24%;
+}
+.tabs_btn li a{ font-size:13px; height:30px; white-space: pre-wrap;}	
+.two_doctaor_details .doc li .doc_img{ width:150px; height:150px; border-radius:75px;}
+footer::before{ height:5%;}	
+
+.why{ margin:20px 0;}	
+.our_res h1{ font-size:45px;}
+
+.aboutus h2{ font-size:30px;}
+.aboutus h4{ font-size:25px;}
+
+.core_icon{ font-size:20px;}
+.accordians .right_details{ float:left; width:90%;}
+
+.condition_thumb li{ width:100%; margin:30px 0; height:auto; }
+.condition_thumb li:nth-child(3n){ margin-right:0;}
+.condition_thumb li:nth-child(2n){ margin-right:0;}
+.condition_thumb li .btn_cener{ position:static;}	
+.disorder_points_accordain li{ font-size:14px;}
+.disorder_points_accordain li span{ display:inline-block; width:70%; vertical-align:middle;}	
+.address_left{ margin-top:50px;}
+.threpy li{ width:46%; height:auto;}
+.threpy li img{ width:80%;}
+.threpy .therapy_name{ font-size:14px;}
+.img1 li img{ width:100%;}
+
+
+/* ----------- register --------- */
+
+.register_form{ margin-bottom:100px;}
+.register_form li{ width:100%; height:auto;}
+.content{  width:90%; padding:20px 5%;}
+
+/* -------- blog ------------------- */
+
+.blog_thumb li{ width:70%;}
+
+/*  media */
+.media li{ text-align:center;}
+.right_content{ float:left; width:98%; margin:20px 1%;}
+	
+}
+
+@media screen and (max-width:479px){
+	
+.subcription input[type="text"]{ width:165px;}	
+.slider_box li img{ width:186%;}
+
+
+.white_bg {padding: 15px;}
+
+}
+	
+
+
+
+@media screen and (max-width:320px){
+	
+	
+	
+}
